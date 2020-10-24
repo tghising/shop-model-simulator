@@ -3,7 +3,7 @@ package shopmodelsimulator;
 /**
  * Inherited Event ArrivalEvent schedule the OrderEvent to serve the group and schedule the next ArrivalEvent
  *
- * @author 12129239-Tikaraj Ghising
+ * @author tghising
  */
 public class ArrivalEvent extends Event {
 

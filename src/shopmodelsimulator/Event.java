@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * Event: used to driven simulation for ice-cream shop that occur at specified times (arrival, order and leave)
  *
- * @author 12129239-Tikaraj Ghising
+ * @author tghising
  */
 public abstract class Event {
 

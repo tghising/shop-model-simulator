@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Simulator implements IScheduler interface and used to run events, schedule events on the basis of time
  *
- * @author 12129239-Tikaraj Ghising
+ * @author tghising
  */
 public class Simulator implements IScheduler {
 

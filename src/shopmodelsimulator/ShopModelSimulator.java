@@ -7,7 +7,7 @@ import java.util.Formatter;
 /**
  * Assignment1v1 is main method() class for ice-cream shop events simulation
  *
- * @author 12129239-Tikaraj Ghising
+ * @author tghising
  */
 public class ShopModelSimulator {
 

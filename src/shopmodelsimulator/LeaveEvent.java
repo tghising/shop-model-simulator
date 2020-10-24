@@ -3,7 +3,7 @@ package shopmodelsimulator;
 /**
  * Inherited Event LeaveEvent that process leave the shop by the group of customers after finished
  *
- * @author 12129239-Tikaraj Ghising
+ * @author tghising
  */
 public class LeaveEvent extends Event {
 

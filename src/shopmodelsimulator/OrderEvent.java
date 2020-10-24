@@ -3,7 +3,7 @@ package shopmodelsimulator;
 /**
  * Inherited Event OrderEvent serve the group of customers order and schedule LeaveEvent for the group
  *
- * @author 12129239-Tikaraj Ghising
+ * @author tghising
  */
 public class OrderEvent extends Event {
 

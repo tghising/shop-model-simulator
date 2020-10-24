@@ -3,7 +3,7 @@ package shopmodelsimulator;
 /**
  * CustomerGroup: used to store information about customer group arrive at the shop
  *
- * @author 12129239-Tikaraj Ghising
+ * @author tghising
  */
 public class CustomerGroup {
 

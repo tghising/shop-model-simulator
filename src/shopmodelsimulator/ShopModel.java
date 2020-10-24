@@ -6,7 +6,7 @@ import java.util.Formatter;
 /**
  * ShopModel: used to represents the ice-cream shop where people or group of people come(Arrive), order ice-cream and leave the shop
  *
- * @author 12129239-Tikaraj Ghising
+ * @author tghising
  */
 public class ShopModel {
 
